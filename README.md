@@ -7,7 +7,7 @@
 - A decade of product design experience
 - Core contributor at <a href = "https://chakra-ui.com">Chakra UI</a>
 - Currently learning SwiftUI and publishing everything I learn
-- Building an iOS app to play beach volleyball with my friends
+- Building an <a href= "https://github.com/javieralaves/Pachanga">iOS app</a> to play beach volleyball with my friends
 
 🧑🏻‍💻 **Recent SwiftUI projects**
 
