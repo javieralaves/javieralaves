@@ -11,7 +11,7 @@
 
 🧑🏻‍💻 **Recent SwiftUI projects**
 
-- <a href = "https://github.com/javieralaves/WordScramble">WordScramble</a> - get a random word and compose new words with the letters of that word
+- <a href = "https://github.com/javieralaves/VolleyRef">VolleyRef</a> - an app for my friends and I to keep track of beach volleyball match scores
 - <a href = "https://github.com/javieralaves/BetterRest">BetterRest</a> - find out when you should go to sleep based on individual lifestyle preferences
 - <a href = "https://github.com/javieralaves/iExpense">iExpense</a> - an expense manager app
 
