@@ -6,12 +6,12 @@
 
 - A decade of product design experience
 - Core contributor at <a href = "https://chakra-ui.com">Chakra UI</a>
-- Currently learning SwiftUI and publishing everything I learn
-- Building an <a href= "https://github.com/javieralaves/Pachanga">iOS app</a> to play beach volleyball with my friends
+- Full stack developer, currently learning React Native
+- Building a <a href= "https://github.com/javieralaves/Pachanga">mobile app</a> to play beach volleyball with my friends
 
-🧑🏻‍💻 **Recent SwiftUI projects**
+🧑🏻‍💻 **Recent projects**
 
-- <a href = "https://github.com/javieralaves/VolleyRef">VolleyRef</a> - an app for my friends and I to keep track of beach volleyball match scores
+- <a href = "https://github.com/javieralaves/face-recognition-brain">Face Recognition Brain</a> - AI app that detects faces in images
 - <a href = "https://github.com/javieralaves/BetterRest">BetterRest</a> - find out when you should go to sleep based on individual lifestyle preferences
 - <a href = "https://github.com/javieralaves/iExpense">iExpense</a> - an expense manager app
 
